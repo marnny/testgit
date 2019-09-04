@@ -1,2 +1,3 @@
 hello git
 hello world
+end_test
